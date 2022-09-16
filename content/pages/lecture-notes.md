@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides lecture presentations from the course along with
+  the schedule of lecture topics.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

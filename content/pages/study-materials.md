@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides study materials on classical rhetoric, modern political
+  discourse, speeches and writing, articles by Les Perelman on classical and medieval
+  rhetoric, Churchill speeches, speeches and debates, Les Perelman and The SAT Writing
+  Essay, health care, torture, and classroom Lincoln Douglas debates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
